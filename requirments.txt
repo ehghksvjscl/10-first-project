@@ -11,17 +11,9 @@ decorator==4.4.2
 Django==3.0.7
 django-cors-headers==3.4.0
 idna==2.10
-ipykernel @ file:///tmp/build/80754af9/ipykernel_1595347145358/work/dist/ipykernel-5.3.3-py3-none-any.whl
-ipython @ file:///tmp/build/80754af9/ipython_1593447368578/work
-ipython-genutils==0.2.0
-jedi @ file:///tmp/build/80754af9/jedi_1592841891421/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
-jupyter-core==4.6.3
 lxml==4.5.2
 mysqlclient==2.0.1
 parso==0.7.0
-pexpect @ file:///tmp/build/80754af9/pexpect_1594383317248/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1594384075987/work
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pycparser==2.20
@@ -38,4 +30,3 @@ sqlparse==0.3.1
 tornado==6.0.4
 traitlets==4.3.3
 urllib3==1.25.9
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work

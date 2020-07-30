@@ -26,7 +26,7 @@ SECRET_KEY = "5^l_!(@nnix+qp5g*pte^e^=ex0(q#_$n&kr@i&m8vvntjc9f-"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["18.191.53.175","*","18.191.53.175:8000"]
 
 
 # Application definition
