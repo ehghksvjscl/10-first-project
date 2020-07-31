@@ -42,7 +42,7 @@ def kakao_callback(request):
                 email=email,
                 name=nickname,
                 login_method=Users.LOGIN_KAKAO,
-                email_verified=True,
+                is_active=True,
             )
             user.save()
 
