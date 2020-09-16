@@ -4,6 +4,7 @@
 - 2명의 백앤드와 2명의 프론트로 구성 되었고 그중 백앤드 역할을 수행 하였습니다)
 - 개발 기간은 2020.07.20 ~ 2020.7.31(2주)
 
+
 ## 적용기술
 - python
 - Django
@@ -12,10 +13,11 @@
 - JWT
 - MySQL
 - AWS
-- Git : [github.com/ehghksvjscl/10-first-project.git](https://github.com/ehghksvjscl/10-first-project.git)
+
 
 ## 목적
 - Wecode 프로젝트(공부)
+
 
 ## 적용 기술 및 구현 기능
 - 데이터 크롤링(csv 파일 생성 및 원하는 정보 가져오기)
@@ -26,6 +28,7 @@
 - 장바구니 기능(장바구니 Upload , ListAPI 구현)
 - 로그인 / 회원가입 기능(Bcrypt를 이용한 암호화 저장, JWT를 이용한 Access Token 전달)
 - 소셜 로그인(Google,Kakao)
+
 
 ## 팀원
 [백엔드]
